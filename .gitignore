@@ -2,4 +2,5 @@
 /.breakpoints
 /.replit
 /replit.nix
+/riscv_asm
 *.o
