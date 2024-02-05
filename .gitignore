@@ -1,5 +1,5 @@
 .ccls-cache/
 /.breakpoints
 /.replit
-/.replit.nix
+/replit.nix
 *.o
